@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comprehension promoted. Whether there be not as much reason, in regard to the ease of the most sober consciences, to take away the subscription in the Act of Uniformity, as well as the declaration of assent and consent?</title>
+            <author>Humfrey, John, 1621-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1704</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86884</idno>
+            <idno type="STC">Wing H3675</idno>
+            <idno type="STC">ESTC R178383</idno>
+            <idno type="EEBO-CITATION">99900168</idno>
+            <idno type="PROQUEST">99900168</idno>
+            <idno type="VID">133118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133118)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2533:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Comprehension promoted. Whether there be not as much reason, in regard to the ease of the most sober consciences, to take away the subscription in the Act of Uniformity, as well as the declaration of assent and consent?</title>
+                  <author>Humfrey, John, 1621-1719.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1704]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Humfrey.</note>
+                  <note>Caption title.</note>
+                  <note>Identified as Wing H3675, reel 2533, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133118:1" rendition="simple:additions"/>
+            <head>Comprehenſion PROMOTED.</head>
+            <head type="sub">Whether there be not as much reaſon, in regard to the eaſe of the moſt Sober Conſciences, to take away the Subſcription in the Act of <g ref="char:V">Ʋ</g>niformity, as well as the Declaration of Aſſent and Conſent?</head>
+            <p>THough I am a perſon who according to my Genius, and the Preparation of my Studies ſhould be apt to offer ſomething to the Nonconformiſt for their Compliance at this time with the Church in general as Proteſtants; rather than diſcourage any body with Scruples. Yet do I ſee reaſon under this preſent Jun<g ref="char:EOLhyphen"/>cture of Affairs, and the kind Inclinations of the Houſe toward Union in their voting away the <hi>Declaration of Aſſent and Conſent;</hi> to repre<g ref="char:EOLhyphen"/>ſent alſo the <hi>Subſcription</hi> in the ſame Act, and the <hi>Oath</hi> impoſed in the Act at <hi>Oxford</hi> for the like redreſs, unto their tender Conſiderati<g ref="char:EOLhyphen"/>ons.</p>
+            <div type="part">
+               <head>THE SUBSCRIPTION.</head>
+               <p>I A. B. <hi>do declare, That it is not lawful upon any pretence whatſoever, to take Arms againſt the KING. And that I do abhor that Trayterous Poſition of taking Arms by his Authority againſt his Perſon, or againſt thoſe that are Commiſſionated by him. And that I will conform to the Liturgy of the Church of</hi> England, <hi>as it is now by Law eſtabliſhed. And I do declare that I do hold, there lyes no Obligation upon me, or any other per<g ref="char:EOLhyphen"/>ſon from the Oath, commonly called the</hi> Solemn League and Covenant, <hi>to endeavour any change or alteration of Government, either in Church or State, and that the ſame was in it ſelf an unlawful Oath, and impoſed
+<pb n="2" facs="tcp:133118:2"/>upon the Subjects of this Realm againſt the known Laws and Liberties of this Kingdom.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>THE OATH.</head>
+               <p>I A. B. <hi>do ſwear, That it is not lawful upon any pretence whatſoever to take Arms againſt the KING. And that I do abhor that Trayterous Poſition of taking Arms by his Authority againſt his Perſon, or againſt thoſe that are Commiſſionated by him in purſuance of ſuch Commiſſions: And that I will not at any time endeavour any alteration of Government either in Church or State.</hi>
+               </p>
+               <p>In this <hi>Oath</hi> and <hi>Subſcription,</hi> we have the <hi>Matter</hi> and the <hi>Form</hi> of words; that is, the <hi>Subſtance,</hi> and the <hi>Compoſure.</hi> And the one and the other, in both, are lyable to the enſuing Exceptions.</p>
+               <p>To begin with the <hi>Oath.</hi> Here are three parts of it: The firſt part, appears not conſiſtent with <hi>Judgment;</hi> the ſecond, with <hi>Truth;</hi> nor the laſt, with <hi>Righteouſneſs.</hi>
+               </p>
+               <p>I will take up the laſt part firſt: <hi>And I will not endeavour any Altera<g ref="char:EOLhyphen"/>tion of Government.</hi> There is no Government on earth is ſo perfect, that it hath need of Laws like the <hi>Medes</hi> and <hi>Perſians.</hi> Alteration of Laws, and ſo Government (in the Adminiſtration) is as neceſſary many times, upon emergent occaſions, to the <hi>Politick</hi> Body, as the freſh Air is to the <hi>Natural.</hi> This <hi>Oath</hi> was brought into the Houſe to have been made common. It were not a thing Righteous, to have had that Engagement laid on perſons, in ſuch a capacity; it is not Righteous to have it laid on any who are Free-Holders, and Free-Subjects, as we are. The Conſti<g ref="char:EOLhyphen"/>tution of our Nation, as Parliamentary, is ſuch, That no Law can be Eſtabliſhed, or Repealed, but it muſt paſs the Houſe of Commons, and ſo the whole Body doth concur in their Repreſentatives, to every Alteration of Government that is made, if it be Legal: And no Houſe of Commons are choſen but by the People. <hi>Every Engliſh man is intend<g ref="char:EOLhyphen"/>ed to be there preſent, either in Perſon, or by Procuration; and the conſent of the Parliament, is taken to be every mans conſent,</hi> ſays Sir <hi>Thomas Smith De Rep. Ang. l.</hi> 2. <hi>c.</hi> 2. Nay while the King, <hi>Conſilio &amp; aſſenſu Baronum, leges olim impoſuit univerſo Regno, conſentire inferior quiſque viſus eſt in per<g ref="char:EOLhyphen"/>ſona Domini ſui capitalis, prout hodie per procuratores Comitatus, By the Counſel and Aſſent of his Barons did give Laws to his whole Realm, every inferior ſeemed to conſent in the perſon of his chief Lord, as now they do by their Burgeſſes, and Knights of the Shires,</hi> ſays Sir <hi>Henry Spelman.</hi> This is ſo true, that in this ſenſe it is, that the Laws that paſs, are ſaid to be <hi>Quas vulgus elegerit, Which the people ſhall chuſe.</hi> Now then if every Free-Subject hath a fundamental Liberty to chuſe Knights, and Burgeſſes,
+<pb n="3" facs="tcp:133118:2"/>and accordingly to inform them of their Grievances, and petition them for Redreſs; and in them, as their Repreſentatives, do con<g ref="char:EOLhyphen"/>ſent to the Alteration of Government and Laws, as are profitable for the Nation, how can ſuch an Oath be impoſed on any, that they will not <hi>endeavour any Alteration,</hi> as this is? Is not chuſing Bur<g ref="char:EOLhyphen"/>geſſes, informing them, petitioning them, acting, and legally con<g ref="char:EOLhyphen"/>ſenting, in them, to that end, an <hi>Endeavour?</hi> and that as much as can be in their place and calling? And no more than an endeavour <hi>in their place and calling</hi> was challenged by any. It not the Foun<g ref="char:EOLhyphen"/>dation-Liberty of the whole people, and our ſelves with them, here in danger? Judg ye that are Wiſe.</p>
+               <p>For the <hi>Words</hi> then (or <hi>Form</hi>), I wonder at this rigour in the Compiler, that a man muſt ſwear, not to endeavour <hi>any</hi> alteration. Had it not been enough to be engaged, not to endeavour the alteration of the <hi>Subſtance</hi> of our Government, <hi>Epiſcopacy</hi> in the Church, and <hi>Monarchy</hi> in the State, but muſt it be <hi>not any alteration?</hi> It were well we were ſo abſolutely perfect. And again, muſt they not at <hi>any time</hi> endeavour any alteration? What if Times ſhould turn, and we be in as great a confuſion as we were, or any the like chance or change come? Muſt theſe men be bound up, that they cannot endeavour to reduce back this Government that we now have? No, not the King and Biſhops, if the iniquity of the Times ſhould put them out; for they have ſworn, they will not at <hi>any time endeavour any alteration</hi> in Church or State. Sirs! The <hi>Matter</hi> of this Obligation being againſt the Fundamental-Freedom of the Subject, and Parliament; and the <hi>Words,</hi> as you ſee, ſo enſnaring, and that againſt that duty all owe to the Publick Good; I offer it you to conſider in the firſt place, whether this <hi>laſt</hi> part be according to <hi>Righteouſneſs?</hi>
+               </p>
+               <p>For the <hi>middle</hi> part of the Oath: Here is a <hi>Poſition</hi> of taking Arms <hi>by the Kings Authority againſt any Commiſſionated by him;</hi> which muſt be ſworn to, as <hi>abhor'd,</hi> and <hi>trayterous.</hi> There is now a caſe in the mouths of all the underſtanding Refuſers of the Oath, of Subſcripti<g ref="char:EOLhyphen"/>on. Suppoſe ſome <hi>Writ</hi> ſued out, and comes to the <hi>Sheriffs</hi> hands, and ſuppoſe ſome to oppoſe the execution by the Kings perſonal Com<g ref="char:EOLhyphen"/>mand or Commiſſion, and he thereupon raiſes the <hi>Poſſe Comitatus</hi> up<g ref="char:EOLhyphen"/>on them. I will ask here, Whether the <hi>Sheriff</hi> acts not herein by the Kings authority? I think it cannot be denied. <hi>By the Kings Au<g ref="char:EOLhyphen"/>thority,</hi> is all one as, <hi>by the Law,</hi> or <hi>in the Name of the King according to Law.</hi> And when he can act ſo againſt any for all their Commiſ<g ref="char:EOLhyphen"/>ſion, and the Law will bear him out, how is this <hi>Position</hi> in this caſe <hi>trayterous,</hi> and to be <hi>abhor'd?</hi> For my part, I do reſolutely believe, that it was not ever the intent of the Parliament, in this Oath, or the Subſcription, (as to the major part, we may be bold) to ad<g ref="char:EOLhyphen"/>vance
+<pb n="4" facs="tcp:133118:3" rendition="simple:additions"/>the perſonal <hi>Will</hi> or <hi>Commiſſion</hi> of the King above <hi>Law,</hi> which were to make his Power <hi>Deſpotical,</hi> and not <hi>Royal: Non eſt Rex</hi> (ſays <hi>Bracton</hi>) <hi>ubi Dominatur voluntas, non Lex, He is not a King that go<g ref="char:EOLhyphen"/>verns by his Will, and not by the Law.</hi> And how this Poſition indefinitely (without exception of this caſe at leaſt) muſt be ſworn to, as altogether <hi>trayterous</hi> I am to learn. <hi>The Courts of Law can a<g ref="char:EOLhyphen"/>void the Kings Charters or Commiſſions, which are paſſed againſt Law, for the King is ſubject to the Law, and ſworn to maintain it,</hi> ſays Judg <hi>Jenkins</hi> in his Works, <hi>p.</hi> 48. As for the <hi>Form</hi> then <hi>of the words; It abhor this trayterous Poſition;</hi> they are harſh; the word <hi>abhor</hi> eſpeci<g ref="char:EOLhyphen"/>ally, is a word of Intereſt and Paſſion; a cooler word, as, I diſown, or diſallow, might have ſerved. Some of the more grave (as <hi>Calamy</hi> particularly) were much offended at that word. I may ſay a thing is unlawful in my Conſcience, when I cannot ſay according to truth, <hi>I abhor it.</hi> There is never a Gentleman in the Land, but may ſwear truly, that he believes it unlawful to company with any other Wo<g ref="char:EOLhyphen"/>man, as his own Wife, but if each one were put to ſwear he <hi>abhors</hi> it, I ſuppoſe ſome very good Sons of the Church, as well as Bre<g ref="char:EOLhyphen"/>thren, would be found willing to be Non-conformiſts to ſuch an Oath. Well Sirs! When theſe words <hi>Abhor</hi> and <hi>Trayterous,</hi> are ſo harſh in the <hi>Compoſure,</hi> and when there is ſuch a caſe, and the like perhaps to it, may be put as to the <hi>Poſition</hi> in the <hi>Matter</hi> of it, wherein it ſeems <hi>juſtifiable,</hi> and without offence; I offer it in the next place to conſideration, Whether this middle part of the Oath and Subſcrip<g ref="char:EOLhyphen"/>tion be according to <hi>Truth?</hi>
+               </p>
+               <p>For the <hi>firſt</hi> part, we have a large aſſertion roundly ſworn. The Oath and Subſcription runs not only that it is not lawful to take Arms againſt the King, or that it is not lawful on any pretence, but <hi>on any pretence</hi> (or cauſe) <hi>whatſoever.</hi> The Gramatical literal conſtruction of that word ſeems to intimate no leſs than that this Propoſition muſt be held without reſtraint or limitation. Among the moſt eminent of Authors, who have wrote for the power of Princes, and eſtabliſht it againſt reſiſtance in their writing on this ſubject, I ſuppoſe there are few or none to be valued above theſe three, <hi>Barclay, Grotius, Arniſaeus.</hi> And we ſhall find that they have all their reſtrictions, or caſes of exception in the maintenance of this tenet. And how ſhall any be over-earneſt here to puniſh the refuſer, when if the matter be ſcan'd, the reaſon perhaps why he refuſes will be found only becauſe he hath read more than ſome others that yield their ſubmiſſion. I begin with <hi>Barclay,</hi> that is <hi>William Barclay</hi> a <hi>Scot,</hi> and Counſellor to the King of <hi>France;</hi> who writes againſt <hi>Bucha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an, Boucher,</hi> and other <hi>Monarcho-maciſts,</hi> as he calls them. This
+<pb n="5" facs="tcp:133118:3" rendition="simple:additions"/>learned man endeavours to make his Prince to be above the whole People, That conſequently no Arms can be taken againſt him; ne<g ref="char:EOLhyphen"/>vertheleſs when he comes to put ſome preſſing caſes, he thus limits himſelf. <hi>Quid ergo, nulli ne caſus incidere poſſunt, quibus populo in Re<g ref="char:EOLhyphen"/>gem arma capere jure ſuo liceat? Nulli certe quamdiu Rex manet. What then? Can there no caſes happen wherein it is lawful for the People to take arms againſt the King by right? None certainlly ſo long as he remains a King.</hi> There are caſes indeed he accounts in which a King does <hi>exuere perſonam Regis,</hi> or, <hi>dominatu ſe exuere; put off the perſon of a King.</hi> And particularly (<hi>l.</hi> 3. <hi>c.</hi> 16.) he mentions two. <hi>Si Regnum alienet; Si Rempublicam evertere conetur, If he go to alienate his Kingdom. If he go to overthrow the Commonwealth.</hi> I do not ſay I approve this Doctrine. The <hi>Papiſts</hi> uſe the ſame we know in another caſe, We may not fight againſt our King, but if the Pope Excommunicate him, he ſhall be <hi>no King</hi> with them. Let us come to <hi>Grotius,</hi> and firſt quote him in his judgment of <hi>Barclay,</hi> leſt you may think elſe I miſtake him. <hi>Barclaius</hi> (ſays he) <hi>Regii imperii licet aſſertor fortiſſimus, huc tamen deſcendit, ut Populo &amp; inſigni ejus parti jus concedit ſe tuendi adverſus immanem ſaevitiam. Barclay, though the moſt ſtrong aſſertor of Kingly Government, does deſcend to this, that he grants a right to the People, or the moſt eminent part of them, of de<g ref="char:EOLhyphen"/>fending themſelves againſt intollerable oppreſſion.</hi> For himſelf then after he hath aſſerted this Tenet, <hi>Summum imperivm tenentibus jure reſiſti non poſſe. That the higher Powers may not lawfully be reſiſted,</hi> from Scripture, Antiquity, Authority and Example, to as much purpoſe perhaps as any, he comes to put ſeven Caſes wherein he does <hi>Lectorem monere ne putet in hanc legem delinquere eos qui revera non delinquent, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> warn his Reader leſt he miſtake ſome for Delinquents, that are not.</hi> For <hi>Arniſaeus</hi> he hath wrote three learned Books of Politicks, <hi>De Jure Majeſtatis. De Doctrina Politica. De Au<g ref="char:EOLhyphen"/>thoritate Principum in Populum ſemper inviolabili; ſeu, Quod nulla ex cauſa ſubditis fas ſit contra legitimum Principem arma ſumere. That the Authority of Princes over the People ought to be inviolable:</hi> or, <hi>That it is lawful for no cauſe to take up Arms againſt our lawful Prince.</hi> Here then we have our Tenet; In the ſtate whereof, he comes in the iſſue to diſtinguiſh between <hi>Rex</hi> and <hi>Tyrannus,</hi> A King and a Tyrant <hi>Tyrannus in Titulo, &amp; Tyrannus in exerntio,</hi> A Tyrant in Title, and in Practiſe. And <hi>Tyrannus in Exercitio</hi> he counts do <hi>excidere de jure etſi haereditario, Does fall from his right, though hereditary. Traditur Reſpub<g ref="char:EOLhyphen"/>lica Principi in eum finem</hi> (ſays he) <hi>ut illi praeſit in ſalutem omnium, a quo ſi prorſus deſciverit etiam de poteſtate cadit, quam non alio fine ſibi commiſſam habebat. The Commonwealth is delivered to the Prince that he ſhould rule over it for the common ſafety, from which if he departs
+<pb n="6" facs="tcp:133118:4" rendition="simple:additions"/>altogether, he falls even from the power it ſelf which was committed to him only for this end.</hi> By ſuch Teſtimonies as theſe, without naming others, I would convince thoſe perſons who were the Compilers of theſe Declarations, to be ſubſcribed, or ſworn, with ſome reſent<g ref="char:EOLhyphen"/>ment, that when the ſenſe and meaning of them is ſuch as we are not like to boggle at, they ſhould be yet compoſed ſo in <hi>ter<g ref="char:EOLhyphen"/>minis,</hi> as to be obnoxious to ſo grand Exception.</p>
+               <p>For the <hi>form</hi> then yet of the <hi>words,</hi> I A. B. <hi>do ſwear that it is not lawful, &amp;c.</hi> Here is an Oath to the <hi>matter of a Propoſition,</hi> and that queſtioned, to the determination of a point of Conſcience, and that diverſly decided. An Oath ſhould be to a <hi>matter of Fact,</hi> and can<g ref="char:EOLhyphen"/>not be taken but to that, whereof we are certain. To require of men therefore to ſwear to the Verity of a Doctrinal Propoſition, is not according to <hi>judgment,</hi> being a thing impoſſible, becauſe no man is infallible. Now Sirs then, when here is ſuch an <hi>Erratum</hi> in the <hi>Compoſure</hi> as the want of the words, <hi>I believe,</hi> or the like. <hi>I ſwear that I hold, or beleeve, that it is not lawful, &amp;c.</hi> And ſo material an exception as the judgment of the moſt learned in general comes to, againſt the Subſtance in <hi>terminis</hi> of the firſt part of this Oath, which yet goes down moſt ordinarily without chewing, I humbly offer it in the third place to be conſidered, how this Oath can be taken either in Truth, or Judgment? An Oath muſt be taken in Judgment, in Truth, and in Righteouſneſs. The firſt part (I argue) is not ac<g ref="char:EOLhyphen"/>cording to <hi>Judgment;</hi> the ſecond not according to <hi>Truth;</hi> the third not according to <hi>Righteouſneſs.</hi>
+               </p>
+               <p>I proceed to the <hi>Subſcription.</hi>
+               </p>
+               <p>This hath two parts. The one is the Purport of the Oath; of which therefore I ſhall add no more, but this, That when the mat<g ref="char:EOLhyphen"/>ter of the one and the other in the former part thereof, is ſuch as enters the foundation of Politicks in general, and the Laws, and State of our Land in particular (which is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>a Ringdom regulated by Laws,</hi> as Sir <hi>Thomas Smith</hi> has it. <hi>Rex ſub Deo &amp; ſub Lege, The King is under God and the Law,</hi> ſays <hi>Hooker</hi> and <hi>Bracton.</hi>), So that it requires the skill of the greateſt Judges, Sergeants, and Sages of the Law to determine the caſes included in it, every poor ſilly Miniſter is put to decide the ſame for himſelf, and to have that evidence therein, as to be able to take his Oath, or give his hand to the certainty of it. The other part of the Subſcription concerns the Covenant, where the words <hi>[nor any other]</hi> are ſuch a Ford, that (as to the Conſciences of all not throughly Epiſcopal) ſo far as I ſee, is unpaſſable. It is nothing to me to ſubſcribe there lies <hi>no ob<g ref="char:EOLhyphen"/>ligation</hi> on me <hi>from the Covenant to endeavour any alteration of Govern<g ref="char:EOLhyphen"/>ment,</hi>
+                  <pb n="7" facs="tcp:133118:4"/>becauſe I never took it, it was againſt my Conſcience, and I can conceive for others in a <hi>private</hi> capacity what have they to do with Government? No Oath can bind to ſedition and diſobedience. But as for ſuch who are in a <hi>publick</hi> capacity and can act lawfully toward Reformation in their place; What ſhall I ſay to thoſe? One way there is indeed will ſtrike off all, and that is, to hold the pre<g ref="char:EOLhyphen"/>ſent Government eſtabliſhed to be <hi>Jure Divino</hi> altogether, ſo that any alteration is ſin. He that holds thus, may affirm clearly that though a man ſwear he would endeavour to alter the Government, it binds him nothing, let him be in what capacity he will; the leaſt alterati<g ref="char:EOLhyphen"/>on is unlawful, and he muſt therefore repent of his Oath, and not perform it. But if a man hold that the <hi>Presbyterean</hi> Government is rather <hi>Jure Divino;</hi> or that neither <hi>Epiſcopal</hi> nor <hi>Presbyterean</hi> is <hi>Jure Divino.</hi> Or that <hi>Epiſcopal</hi> Government is well, yet that <hi>ours</hi> as it is now, is not altogether ſo well, but that ſomething may be alter<g ref="char:EOLhyphen"/>ed for the better; I would fain be informed how ſuch a man can <hi>abſolve</hi> him who is in a publick capacity (as a Parliament man), from his endeavouring ſo much, according to time and prudence, if he hath ſworn before that he will. It is in vain to hide where the water ſticks. There are ſome cannot tell how to abſolve <hi>One other</hi> for their lives. I ſay not there lies an Obligation on any to do as they have ſworn, for fear it be dangerous; and I dare not ſay there lies <hi>none,</hi> becauſe I fear God. But this I may ſay, that I deſire to be inſtructed; and this I will ſay, that it is a hard thing to be put on it, to ſay that there lies no Obligation upon any other but our ſelves, whether there does or no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> To relieve us in this Grievance, and others of the like nature with this, I propoſe this remedy, to wit, That thoſe Declarations which are required of the Nonconformiſt, to be made, ſubſcribed, or ſworn, may be impoſed only in the <hi>matter</hi> and <hi>end,</hi> and ſo long as he comes up in his ſenſe and meaning to give ſatisfaction therein, he may be left to the liberty of uſing his own ex<g ref="char:EOLhyphen"/>preſſions.</p>
+               <p>To conclude, There are many have been hugely ſenſible that the <hi>Papiſts</hi> at this ſeaſon were borrowing a <hi>Helve</hi> for their <hi>Hatchet</hi> out of the <hi>Wood</hi> of the <hi>Fanaticks;</hi> and that if they came to obtain their purpoſe, it is not hard to conjecture which <hi>Trees</hi> were like to go down afterwards, one with another. If it ſhall pleaſe the Parliament therefore, now to proceed with vigour, to an <hi>eſtabliſhment by Law</hi> of the mo<g ref="char:EOLhyphen"/>derate and ſober <hi>Proteſtant,</hi> that can unite in our Parochial Congre<g ref="char:EOLhyphen"/>gations, to out-ballance both theſe Extremities. And if thoſe perſons who preach the Goſpel to others could be perſwaded to put the great
+<pb n="8" facs="tcp:133118:5"/>duty of it, which is <hi>ſelf-denial,</hi> into practiſe themſelves, in the matter or <hi>Pluralities,</hi> to make an Act for <hi>Comprehenſion</hi> ſignificant, I know nothing more deſireable to the proſperity of the <hi>Engliſh</hi> Church and Nation. Provided only by all means, that neither of theſe parties, her enemies, be exalted, or new ſpirited by <hi>Perſecution</hi> for their <hi>Conſcien<g ref="char:EOLhyphen"/>ces. Secundae cogitationes prudentius, &amp; Moderatius conſulunt? &amp; pru<g ref="char:EOLhyphen"/>dentius, quia moderatius. Second Thoughts do counſel us more prudently, and more moderately; and more prudently, becauſe more moderately.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
